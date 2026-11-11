@@ -1,0 +1,5 @@
+Trajectory,ATE RMSE (m),Loop Constraints Used
+Visual odometry (Task 2),9.62187,-
+Keyframes before correction,Bonus evaluation,0
+Keyframes after correction,Bonus evaluation,307
+Keyframes with one incorrect loop,Bonus evaluation,308
